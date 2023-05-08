@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9932CC&height=120&section=header"/>
 
-### Olá! 
-<p> Eu sou a Bruna Louro, dou aula de programação pra crianças e atualmente estou estudando node.js. </p>
+ <h1>Olá!</h1>
+ <p> Eu sou Bruna Louro, dou aula de programação pra crianças e atualmente estou estudando node.js. </p>
  <br>
 
  <div>
