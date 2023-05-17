@@ -4,13 +4,7 @@
  <p> Eu sou Bruna Louro, dou aula de programação pra crianças e atualmente estou estudando node.js. </p>
  <br>
 
- <div>
-  <a href="https://github.com/brunalekichlouro">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BruLekichLouro&show_icons=true&theme=jolly" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BruLekichLouro&layout=compact&langs_count=&theme=jolly" /></div>
-<br>
- 
- ### Main skills:
+  ### Main skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=1572B6&labelColor=0D1117)&nbsp;
